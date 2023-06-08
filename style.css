@@ -20,17 +20,17 @@ main {
 }
 
 figure {
- margin: 0;
+ margin: 10px;
  /* set your width */
- width: 33%;
+ width: 300px;
 }
   
 /* Backdrop for modal overlay */
 ::backdrop {
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(153, 9, 9, 0.75);
 }
 
 /* Animation */
 dialog {
-    animation: fadeIn 1s;
+    animation: tada 1s;
 }
