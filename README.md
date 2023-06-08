@@ -15,3 +15,4 @@ Starter (boilerplate) for all future projects.
 ## Citiations
 * [Favivon Generator] (https://favicon.io/favicon-converter/)
 * [Netlify] (ps://app.netlify.com/teams/ppieroni8/overview)
+* [Google Fonts] ('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');

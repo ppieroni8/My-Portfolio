@@ -1,13 +1,26 @@
 /* Your Styles */
 
+/* Load Google Font*/
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
+  /* Style Tile with CSS Variables */
+  /* Global css variables */
+  :root {
+  --color1 : #848484;
+  --color2 : #891024;
+  --font1 : 'Fredoka', sans-serif;
+  }
+
+
 /* diagnostic styling. remove when done */
-* {
+/* * {
     outline: 1px dotted gray;
-}
+} */
 
 /* Layout with css grid */
 body {
     display: grid;
+    background: var(--color1);
 }
 
 main {
@@ -20,6 +33,13 @@ main {
 }
 
 figure {
+
+    background: (--color2);
+    padding: 30px;
+    border-radius: ;
+
+
+
  margin: 10px;
  /* set your width */
  width: 300px;
@@ -32,5 +52,19 @@ figure {
 
 /* Animation */
 dialog {
+
+    border: none;
+    box-shadow: #848484;
+
+
+
     animation: tada 1s;
+}
+
+/* Typographhy */
+h2 {
+font-family: 'Fredoka'; sans-serif;
+font-size: ; 2rem
+text-align: ; center; 
+
 }
