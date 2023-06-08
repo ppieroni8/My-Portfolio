@@ -1,0 +1,36 @@
+/* Your Styles */
+
+/* diagnostic styling. remove when done */
+* {
+    outline: 1px dotted gray;
+}
+
+/* Layout with css grid */
+body {
+    display: grid;
+}
+
+main {
+    /* css grid */
+    place-self: center;
+
+    /* flexbox */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+figure {
+ margin: 0;
+ /* set your width */
+ width: 33%;
+}
+  
+/* Backdrop for modal overlay */
+::backdrop {
+    background: rgba(0, 0, 0, 0.75);
+}
+
+/* Animation */
+dialog {
+    animation: fadeIn 1s;
+}
