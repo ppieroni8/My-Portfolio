@@ -11,3 +11,7 @@ Starter (boilerplate) for all future projects.
 * Don't with blank files
 * Common boilerplate for web projects
 * I am a human being who makes mistakes
+
+## Citiations
+* [Favivon Generator] (https://favicon.io/favicon-converter/)
+* [Netlify] (ps://app.netlify.com/teams/ppieroni8/overview)
