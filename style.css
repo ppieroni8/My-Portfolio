@@ -1,7 +1,7 @@
 /* Your Styles */
 
 /* Load Google Font*/
-  @import urlimg/e-1-full.jpeg;
+  @import url('http://fonts.googleapis..com/css2?family=Tilt+Prism&display=swap');
 
   /* Style Tile with CSS Variables */
   /* Global css variables */
@@ -63,7 +63,7 @@ dialog {
 
 /* Typographhy */
 h2 {
-font-family: 'Fredoka'; sans-serif;
+font-family: 'Tilt Prism'; sans-serif;
 font-size: ; 2rem
 text-align: ; center; 
 
