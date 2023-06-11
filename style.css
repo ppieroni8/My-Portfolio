@@ -1,13 +1,13 @@
 /* Your Styles */
 
 /* Load Google Font*/
-  @import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+  @import urlimg/e-1-full.jpeg;
 
   /* Style Tile with CSS Variables */
   /* Global css variables */
   :root {
-  --color1 : #848484;
-  --color2 : #891024;
+  --color1 : #ffffff;
+  --color2 : #ffffff;
   --font1 : 'Fredoka', sans-serif;
   }
 
@@ -47,18 +47,18 @@ figure {
   
 /* Backdrop for modal overlay */
 ::backdrop {
-    background: rgba(153, 9, 9, 0.75);
+    background: rgba(212, 182, 147, 0.75);
 }
 
 /* Animation */
 dialog {
 
     border: none;
-    box-shadow: #848484;
+    box-shadow: #ffffff;
 
 
 
-    animation: tada 1s;
+    animation: jello 1s;
 }
 
 /* Typographhy */
