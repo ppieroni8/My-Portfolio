@@ -1,14 +1,14 @@
 /* Your Styles */
 
 /* Load Google Font*/
-  @import url('http://fonts.googleapis..com/css2?family=Tilt+Prism&display=swap');
+  @import url('http://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
 
   /* Style Tile with CSS Variables */
   /* Global css variables */
   :root {
   --color1 : #dad2c9;
   --color2 : #c7af8c;
-  --font1 : 'Fredoka', sans-serif;
+ 
   }
 
 
@@ -63,7 +63,7 @@ dialog {
 
 /* Typographhy */
 h2 {
-font-family: 'Tilt Prism'; sans-serif;
+font-family: 'Tilt Prism', cursive:Arial, Helvetica, sans-serif
 font-size: ; 2rem
 text-align: ; center; 
 
